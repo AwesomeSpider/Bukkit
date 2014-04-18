@@ -20,7 +20,7 @@ public interface Ageable extends Creature {
 
     /**
      * Lock the age of the animal, setting this will prevent the animal from
-     * maturing or getting ready for mating.
+     * maturing or getting ready for breeding.
      *
      * @param lock new lock
      */
